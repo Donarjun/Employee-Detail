@@ -1,1 +1,8 @@
-#
+EmployeeDetail/.classpath
+EmployeeDetail/.project
+EmployeeDetail/build.properties
+*.class
+/EmployeeDetail/target/*.properties
+/EmployeeDetail/target/*.class
+#Project files
+[Bb]uild/
