@@ -1,8 +1,19 @@
 EmployeeDetail/.classpath
 EmployeeDetail/.project
 EmployeeDetail/build.properties
-*.class
-/EmployeeDetail/target/*.properties
-/EmployeeDetail/target/*.class
-#Project files
-[Bb]uild/
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
