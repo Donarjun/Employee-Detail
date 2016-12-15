@@ -39,8 +39,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 
 	@Override
 	public void updateEmployee() {
-		Session session = sessionFactory.openSession();
-		session.getTransaction().begin();
+		
 
 	}
 
